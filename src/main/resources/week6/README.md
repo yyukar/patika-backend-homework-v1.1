@@ -1,8 +1,8 @@
 # week 6
 ## content
 
-- SQL Temelleri
-- SQL Temelleri 2
-- Tablolarla çalışma
-- join yapıları
-- Alt sorgular
+- SQL Fundamentals
+- SQL Fundamentals 2
+- SQL work with table
+- SQL work with join structure
+- SQL work with subquery
